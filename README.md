@@ -61,5 +61,10 @@ We welcome your contributions. Please follow the below guidelines while contribu
 4. Do the work and commit changes with good commit messages.
 5. Once you are confident in your work, create a pull request to the `main` branch of upstream repository with proper descriptions explaining what you did and wait until we review it.
 
+## Authors
+
+- [Jude Janculan](https://github.com/judejanculan)
+
+
 > Check out [GitHub Flow](https://guides.github.com/introduction/flow/) for more details.
 >
